@@ -1,5 +1,5 @@
 // Servis çalışanı: sayfa ve kod her zaman önce ağdan (güncel sürüm), internet yoksa önbellekten; simgeler önbellek öncelikli.
-const CACHE = 'bilye-atolyesi-v5';
+const CACHE = 'bilye-atolyesi-v6';
 const FILES = ["./game.js","./icons/apple-touch-icon.png","./icons/icon-192.png","./icons/icon-512.png","./index.html","./manifest.webmanifest","./style.css"];
 const HEAVY = /\.(png|jpg|webp)$/i;
 self.addEventListener('install', (e) => {

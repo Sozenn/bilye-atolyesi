@@ -4,4 +4,4 @@
 
 **Oyna:** https://sozenn.github.io/bilye-atolyesi/
 
-Sürüm v5 · © Sozenn — tüm hakları saklıdır.
+Sürüm v6 · © Sozenn — tüm hakları saklıdır.
