@@ -1,7 +1,7 @@
 # Bilye Atölyesi
 
-Her bilyenin kendi maddesinden olduğu fizikli bilye sıralama oyunu.
+Üç bilye oyunu bir arada: Mahalle Misketi, Ayrıştırma Atölyesi, Bilye Pisti.
 
 **Oyna:** https://sozenn.github.io/bilye-atolyesi/
 
-© Sozenn — tüm hakları saklıdır.
+Sürüm v5 · © Sozenn — tüm hakları saklıdır.
